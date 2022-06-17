@@ -4,7 +4,7 @@ Loona is a Hosting Solution based in Australia!
 ## Developers 🙋‍
 - [Artucuno](https://github.com/Artucuno)
 - [Frenchy](https://github.com/frenchyfry404)
-- [Cowski](https://github.com/Cowski0
+- [Cowski](https://github.com/Cowski0)
 
 ## Contact Us 📫
 Website: https://loona.cc
